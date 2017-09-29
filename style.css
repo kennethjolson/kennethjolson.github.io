@@ -53,9 +53,8 @@ html {
 	font-size: 80px;
 }
 
-#projects {
-
-	padding-left: 4%;
+#projects-title {
+	text-align: center;
 }
 
 #happy-camper-summary {
