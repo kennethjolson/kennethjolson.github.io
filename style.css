@@ -57,26 +57,6 @@ html {
 	text-align: center;
 }
 
-#happy-camper-summary {
-	padding: 2.5%;
-}
-
-#rflct-summary {
-	padding-top: 3%;
-	padding: 2.5%;
-}
-
-
-#eclair-summary {
-	 padding: 2.5%;
-}
-
-#eclair-img {
-	padding-left: 4%;
-	padding-top: 4%;
-
-}
-
 .logo {
 	margin: 5%;
 	height: 150px;
@@ -97,11 +77,19 @@ html {
 	font-family: Alex Brush, cursive;
 	font-size: 30px;
 }
-.other-img {
-	height: 300px;
+.horizontal-img {
+	height: 350px;
+	width: 500px;
+	padding-left: 5%;
+	padding-top: 5%;
+}
+
+ 
+
+#barrels-title {
 	padding-left: 5%;
 }
 
-#other-projects {
-	padding-bottom: 5%;
-} 
+#home-title {
+	padding-left: 5%;
+}
